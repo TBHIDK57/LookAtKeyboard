@@ -1,0 +1,1 @@
+gcc test.c -o test.exe -mwindows -L"C:\mingw64\x86_64-w64-mingw32\include\curl\lib" -luser32 -lshell32 -lwininet -lAdvapi32 -lcurl
