@@ -1,0 +1,3 @@
+LIBRARY uploader
+EXPORTS
+    UploadToDiscord @1
